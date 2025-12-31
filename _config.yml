@@ -2,10 +2,10 @@ title: Blog d'Eines Digitals
 email: your-email@example.com
 description: >-
   Blog sobre eines digitals per a families.
-baseurl: "/eines-digitals"
-url: "https://ignasi35.github.io"
+baseurl: "/blog-eines-digitals"
+url: "https://idees-fixes.github.io/"
 twitter_username: 
-github_username: ignasi35
+github_username: idees-fixes
 
 theme: minima
 plugins:
@@ -16,7 +16,7 @@ minima:
   date_format: "%b %-d, %Y"
   
   social_links:
-    - { platform: github,  user_url: "https://github.com/ignasi35" }
+    - { platform: github,  user_url: "https://github.com/idees-fixes" }
 
 header_pages:
   - about.md

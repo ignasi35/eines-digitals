@@ -1,2 +1,3 @@
-# eines-digitals
-Repo de recursos i notes sobre Eines Digitals en infància
+# blog-eines-digitals
+
+Repo de recursos i notes sobre Eines Digitals per a familiies amb infants.
