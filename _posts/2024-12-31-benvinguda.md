@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Benvinguda al Blog d'Eines Digitals"
+title: "Benvinguda al Blog d'Idees Fixes"
 date: 2024-12-31 10:00:00 +0100
 categories: general
 ---
